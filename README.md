@@ -39,6 +39,8 @@ An AI-powered application that analyzes resumes against job descriptions using N
 - matcher.py – TF-IDF and cosine similarity matching
 - recommender.py – Skill learning recommendations
 
+    Live Demo: https://kaniishk005-ai-resume-analyzer-app-xfen7o.streamlit.app/
+
 
 ## How to Run
 ```bash
